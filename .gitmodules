@@ -1,0 +1,6 @@
+[submodule "arduino/serial"]
+	path = arduino/serial
+	url = https://github.com/jaredwolff/arduino-raspberrypi-serial-example
+[submodule "nodejs/websocket"]
+	path = nodejs/websocket
+	url = https://github.com/jaredwolff/nodejs-websocket-example
